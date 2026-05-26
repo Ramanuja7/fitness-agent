@@ -46,6 +46,8 @@ langflow run
 5. Click Playground and start chatting!
 
 ## 📸 Screenshots
+<img width="1845" height="784" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/33081b5b-5444-48ba-8d62-01483cf2326e" />
+
 
 
 ## 👤 Author
